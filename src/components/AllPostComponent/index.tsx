@@ -1,0 +1,1 @@
+export {AllPost} from './AllPost'
